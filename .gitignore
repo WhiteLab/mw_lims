@@ -7,6 +7,8 @@ __pycache__/
 *.DS_Store
 # C extensions
 *.so
+secret_settings.py
+my.cnf
 
 # Distribution / packaging
 .Python
@@ -22,6 +24,7 @@ lib64/
 parts/
 sdist/
 var/
+migrations/
 *.egg-info/
 .installed.cfg
 *.egg
